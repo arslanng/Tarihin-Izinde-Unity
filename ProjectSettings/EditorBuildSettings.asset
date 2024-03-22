@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: 7ba4407e9efc90b41958bc8c038a6398
+  - enabled: 1
+    path: Assets/Scenes/HowTo.unity
+    guid: deaa2684bc9e3f54b8515c471c80ab96
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 7e2a2776aed31294cbc8d2e10b0fd43b
+  - enabled: 1
+    path: Assets/Scenes/Level1AR.unity
+    guid: 1e68d3f040fdb5240b99262f44a3740e
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 448e446ff80f90c47b14b04fb1194171
+  - enabled: 1
+    path: Assets/Scenes/Level2-1.unity
+    guid: 5a849a5a4b1ff2842b4012b8fb08012d
+  - enabled: 1
+    path: Assets/Scenes/Level2AR.unity
+    guid: a9ebd54b330b052418bbae1a6a020800
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 52b70ce29f56c834eb472853d1fbc420
+  - enabled: 1
+    path: Assets/Scenes/Level3AR.unity
+    guid: 7ff003cedeccd4842ab7d5d87c8b040f
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 59b7df4c6e6a5ef49b7f4d3665dbc3e5
+  - enabled: 1
+    path: Assets/Scenes/Rewards.unity
+    guid: a3cada8edc3befd49bdf0a0c8cd46454
+  - enabled: 1
+    path: Assets/Scenes/Level1Reward.unity
+    guid: cd8497c1b7ccbe449b5a224fa9c53071
+  - enabled: 1
+    path: Assets/Scenes/Level2Reward.unity
+    guid: 40294bcc0abe29f4f9cb405ef164a998
+  - enabled: 1
+    path: Assets/Scenes/Level3Reward.unity
+    guid: b39fbe29f685f4842804b0b98c6c30bf
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ca1ab5827f782ea4083e86149f22b7d8, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0b0414102511c0543babe676f93bae4b, type: 2}
